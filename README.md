@@ -7,11 +7,11 @@ It's useful for turning lectures, meetings, or spontaneous thoughts into concise
 
 
 Features
-- **Speech-to-text** using OpenAI's Whisper
-- **AI-powered summarization** using GPT
+-  Speech-to-text using OpenAI's Whisper
+-  AI-powered summarization using GPT
 -  Works with recorded audio files
--  Simple and clean terminal-based interface
--  Easily extensible into a web app
+-  Simple and clean **web interface** (Flask-powered)
+-  Easily extensible into a full web app
 
 ---
 
